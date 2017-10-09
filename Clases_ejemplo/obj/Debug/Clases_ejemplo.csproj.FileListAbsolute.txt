@@ -1,0 +1,9 @@
+C:\Users\jhass\AppData\Local\Temporary Projects\Clases_ejemplo\bin\Debug\Clases_ejemplo.exe.config
+C:\Users\jhass\AppData\Local\Temporary Projects\Clases_ejemplo\bin\Debug\Clases_ejemplo.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\Clases_ejemplo\bin\Debug\Clases_ejemplo.pdb
+C:\Users\jhass\AppData\Local\Temporary Projects\Clases_ejemplo\obj\Debug\Clases_ejemplo.csprojResolveAssemblyReference.cache
+C:\Users\jhass\AppData\Local\Temporary Projects\Clases_ejemplo\obj\Debug\Clases_ejemplo.Form1.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\Clases_ejemplo\obj\Debug\Clases_ejemplo.Properties.Resources.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\Clases_ejemplo\obj\Debug\Clases_ejemplo.csproj.GenerateResource.Cache
+C:\Users\jhass\AppData\Local\Temporary Projects\Clases_ejemplo\obj\Debug\Clases_ejemplo.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\Clases_ejemplo\obj\Debug\Clases_ejemplo.pdb
